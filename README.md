@@ -1,1 +1,1 @@
-# stock_picker
+# Stock Picker problem from The Odin Project
